@@ -1,4 +1,4 @@
-FROM node:10-stretch
+FROM node:10-stretch-slim
 
 WORKDIR /usr/src/app
 
